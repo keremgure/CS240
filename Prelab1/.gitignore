@@ -1,0 +1,5 @@
+*.zip
+log
+mem*.txt
+mid.txt
+program.v
